@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type/waving&color=059669&height=200&section=header&text=Hakorimanasharif&fontSize=50&animation=fadeIn&fontAlignY=40&theme=dark" width="100%" alt="Header Banner" />
-</p>
+ <img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=059669&height=200&section=header&text=Hakorimanasharif&fontSize=50&animation=fadeIn&fontAlignY=40&theme=dark" 
+  width="100%" 
+  alt="Header Banner" 
+/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Machine%20Learning%20Engineer-059669?style=for-the-badge" alt="ML Role">
