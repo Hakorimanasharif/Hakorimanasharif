@@ -79,16 +79,27 @@ Highly technical and design-focused **Software & Machine Learning Engineer** ded
 ---
 
 ### 📊 Real-Time Analytics Dashboard
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devxsharif&show_icons=true&theme=emerald_dark&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devxsharif&layout=compact&theme=emerald_dark&hide_border=true" height="150" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Devxsharif&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+    height="150" 
+    alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devxsharif&layout=compact&theme=tokyonight&hide_border=true" 
+    height="150" 
+    alt="Top Languages" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devxsharif&theme=emerald_dark&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Devxsharif&theme=tokyonight&hide_border=true" 
+    width="100%" 
+    alt="GitHub Streak" 
+  />
 </p>
-
 ---
 
 ### 🤝 Strategic Connections
